@@ -23,7 +23,8 @@ The script expects a CSV file named `Loan_prediction_dataset.csv` located in the
 
 - Python
 - NumPy
-📌 Notes
-The script uses np.genfromtxt() to handle missing values gracefully.
+  
+## 📌 Notes
 
-Make sure your dataset is clean and correctly formatted for accurate analysis.
+- The script uses np.genfromtxt() to handle missing values gracefully.
+- Make sure your dataset is clean and correctly formatted for accurate analysis.
